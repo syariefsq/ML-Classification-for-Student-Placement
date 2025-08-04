@@ -1,3 +1,5 @@
+![preview of the app](Predicting MBA StudentJob.png)
+
 # 🎓 MBA Student Placement Prediction
 
 Hi, I’m Syarief! Welcome to my MBA Student Placement Prediction project—a hands-on journey where I combined my passion for data science with the real-world challenge of helping MBA students land their dream jobs.
@@ -62,3 +64,4 @@ I love collaborating with curious minds and tackling new challenges. If you’re
 - [GitHub](https://github.com/syariefsq)
 - [LinkedIn](https://www.linkedin.com/in/syariefqayum/)
 - [Email](mailto:syarif.qayyum@gmail.com)
+
