@@ -1,4 +1,4 @@
-![preview of the app](Predicting MBA StudentJob.png)
+![preview of the app](Predicting-MBA-StudentJob.png)
 
 # 🎓 MBA Student Placement Prediction
 
@@ -64,4 +64,5 @@ I love collaborating with curious minds and tackling new challenges. If you’re
 - [GitHub](https://github.com/syariefsq)
 - [LinkedIn](https://www.linkedin.com/in/syariefqayum/)
 - [Email](mailto:syarif.qayyum@gmail.com)
+
 
